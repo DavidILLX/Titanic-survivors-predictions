@@ -2,7 +2,7 @@
 This repository contains a machine learning model for predicting the survival of passengers aboard the Titanic. The model uses logistic regression and several feature engineering techniques to predict whether a passenger survived based on various attributes.
 
 Dataset  
-The dataset used for this project is from the Titanic: Machine Learning from Disaster competition on Kaggle. It contains information about the passengers, including features like Age, Fare, Pclass, Sex, Embarked, etc.
+The dataset used for this project is from the Titanic: Machine Learning from Disaster competition on Kaggle (https://www.kaggle.com/competitions/titanic/overview). It contains information about the passengers, including features like Age, Fare, Pclass, Sex, Embarked, etc.
 
 ## Data Preprocessing:
 
